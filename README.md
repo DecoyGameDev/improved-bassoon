@@ -1,14 +1,11 @@
-<div align="center">
-<img src="images/OpenGLTemplateLogo.png">
-</div>
 
 <br>
 
-This repository is a template OpenGL project configured using CMake. It supports cross-platform builds, and provides a good starting point to begin OpenGL development.
+Improved Bassoon is an OpenGL testing grounds.
 
 ## Usage
 
-The intended usage for this repository is to be a template for future Github repositories. See [this](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template) guide for more information.
+100% Open source, lis is unknown because I used a template, do whatever you want with this code.
 
 ## Building
 
