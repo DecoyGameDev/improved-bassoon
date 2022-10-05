@@ -17,7 +17,7 @@ int main()
     glfwWindowHint(GLFW_OPENGL_PROFILE, GLFW_OPENGL_CORE_PROFILE);
 
     // Construct the window
-    GLFWwindow* window = glfwCreateWindow(800, 600, "OpenGL Template", nullptr, nullptr);
+    GLFWwindow* window = glfwCreateWindow(800, 600, ".Improved Bassoon.", nullptr, nullptr);
     if (!window)
     {
         std::cout << "Failed to create the GLFW window\n";
